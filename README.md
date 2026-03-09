@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/yuki-2005-17">
+    <img height="20" src="https://komarev.com/ghpvc/?username=yuki-2005-17" />
+  </a>
+  <a href="https://github.com/yuki-2005-17">
+    <img height="20" src="https://img.shields.io/github/followers/yuki-2005-17?label=follow&logo=github&style=flat" />
+  </a>
+</p>
