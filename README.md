@@ -23,9 +23,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki-2005-17&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki-2005-17&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-2005-17&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuki-2005-17&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuki-2005-17&theme=gruvbox&utcOffset=9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-2005-17)](https://github.com/anuraghazra/github-readme-stats)
