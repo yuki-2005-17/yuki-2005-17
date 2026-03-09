@@ -14,13 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <a href="https://github.com/yuki-2005-17">
-    <img height="20" src="https://komarev.com/ghpvc/?username=yuki-2005-17" />
-  </a>
-  <a href="https://github.com/yuki-2005-17">
-    <img height="20" src="https://img.shields.io/github/followers/yuki-2005-17?label=follow&logo=github&style=flat" />
-  </a>
-</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-2005-17&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-2005-17)
