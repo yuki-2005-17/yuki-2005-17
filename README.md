@@ -22,3 +22,10 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/yuki-2005-17?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki-2005-17&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki-2005-17&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-2005-17&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuki-2005-17&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuki-2005-17&theme=gruvbox&utcOffset=9)
